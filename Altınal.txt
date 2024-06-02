@@ -1,0 +1,2 @@
+print("Altınal");
+Altının değeri yükselmiş
